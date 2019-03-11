@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoThreading</string>
+    <string name="txt_btn_start">Start</string>
+</resources>
